@@ -1,0 +1,131 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007BFF;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.portfolio_content {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#profile {
+    width: auto;
+    height: 200px;
+    border-radius: 5px;
+    border: 5px solid #007BFF;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.picture_info ul {
+    list-style: none;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+ul li {
+    margin: 5px 0;
+    padding-left: 20px;
+
+}
+
+strong,b {
+    color: #007BFF;
+}
+
+.picture_info {
+    display: flex;
+}
+
+.top-bar {
+    background-color: #1d8eda;
+    color: #fff;
+    display: flex;
+    /*justify-content: space-between; /* Horizontally align content */
+    align-items: center;
+    padding-left: 30px;
+}
+
+button {
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #1d8eda;
+}
+
+button:hover {
+    background-color: #abd6f3;
+}
+
+.drop-down {
+    padding: 20px;
+    padding-top: 40px;
+}
+
+body {
+    background-image: url("/Assets/images/irithyll.jpg");
+    backdrop-filter: blur(5px);
+    background-size: cover;
+}
+
+#my_background {
+    display: flex;
+}
+#background_list{
+    padding-right: 30px;
+}
+
+.github_pic{
+    border-radius: 80px;
+    height: 150px;
+    padding-bottom: none;
+    
+}
+.github_pic:hover{
+    background-color: #abd6f3;
+}
+
+#game_button{
+
+}
+
+h1{
+    font-family: 'Roboto Condensed';
+}
+
+.github_stuff {
+}
+#figurecaption{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 35px;
+}
